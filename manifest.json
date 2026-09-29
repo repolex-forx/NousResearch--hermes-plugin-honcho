@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-honcho",
+  "versions": [
+    {
+      "commit": "32dfd0ba62ae0e8dad82d55fc81515e8c4a181a9",
+      "parsed_at": "2026-09-29T08:27:42.852429+00:00",
+      "tag": "main",
+      "filetree": "filetree/32dfd0ba62ae0e8dad82d55fc81515e8c4a181a9.nq.gz",
+      "blobs": [
+        "blob/75410e73319c72cd3e991a501c5455eb78f38375.nq.gz",
+        "blob/05e35c1c8425b62134ca8344d4d30fbf8032ead8.nq.gz",
+        "blob/d10902854338161bb9b41ac3c5e6a29f22e13c12.nq.gz",
+        "blob/4c418496b4c375678601f53ffda3e204bb91e89b.nq.gz",
+        "blob/00f2d38d8063d0c6b219c0081e51888063b0c55e.nq.gz",
+        "blob/ff905429249e9b4169493dbac84ef8f2aed4b9ea.nq.gz",
+        "blob/c6462ab3a3128ab1ba6fd5fcecbd2522939f8042.nq.gz",
+        "blob/8ce2e91b0c9fe8f7670757d5bad700ab536ba467.nq.gz",
+        "blob/eabccda9bf9ca9c02f2e770adc17bbbded23af40.nq.gz",
+        "blob/021789fb51213ac89fb50ec415ebff28fb62ce32.nq.gz",
+        "blob/a6442a05a94f11669272ef3978fe8b1f1a819b20.nq.gz",
+        "blob/beb89f82a0699cf5939c3af49c2583596e12d7ae.nq.gz",
+        "blob/878dcd3a959fea1082bd5d81c53d11cd5738c6c0.nq.gz",
+        "blob/c6024eddfdd4001167e6342f48835cfb44710e7b.nq.gz",
+        "blob/317869d95a442b208bda5b8561cd8ca91e1e7fd1.nq.gz",
+        "blob/7a6e6e9831d992c21befefed5b78cc577d307fac.nq.gz",
+        "blob/e6000210f0d37f87c91badcda8fe7f4230aa3120.nq.gz",
+        "blob/8e05f35f8cbd8e42d35c5d1cadc7348a6d5b0304.nq.gz",
+        "blob/38a0612c9774ce7b722f45f6d287835d70528ee6.nq.gz",
+        "blob/9b3c0c22df9a0e4c74063d86676de04be6ee76bc.nq.gz",
+        "blob/d3a4cd9725c152271d99a2463c959c75da4ac2dc.nq.gz",
+        "blob/f236edaf59621db8094f092a1e08d835e000478c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
