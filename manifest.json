@@ -34,6 +34,27 @@
       ],
       "ast": [
         "aggregate/ast/32dfd0ba62ae0e8dad82d55fc81515e8c4a181a9/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/32dfd0ba62ae0e8dad82d55fc81515e8c4a181a9.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "honcho-ai",
+          "ecosystem": "PYPI",
+          "version": "2.2.0",
+          "githubOrg": "plastic-labs",
+          "githubRepo": "honcho",
+          "githubUrl": "https://github.com/plastic-labs/honcho",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "httpx",
+          "ecosystem": "PYPI",
+          "version": "0.27",
+          "githubOrg": "encode",
+          "githubRepo": "httpx",
+          "githubUrl": "https://github.com/encode/httpx",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
